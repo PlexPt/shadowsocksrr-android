@@ -69,7 +69,7 @@
   <string name="recovery">重置</string>
   <string name="recovery_summary">重置所有后台服务</string>
   <string name="about">关于</string>
-  <string name="about_title">ShadowsocksR %s</string>
+  <string name="about_title">ShadowsocksRr %s</string>
   <string name="flush_dnscache">刷新 DNS 缓存</string>
   <string name="flush_dnscache_summary">只需在 NAT 模式下使用</string>
   <string name="flush_dnscache_summary_root">只需在 NAT 模式下使用，需要 ROOT 权限</string>
@@ -116,7 +116,7 @@
     长按拖动改变顺序。</string>
   <string name="gotcha">好的</string>
   <string name="copy_url">复制 URL</string>
-  <string name="add_profile_dialog">为 ShadowsocksR 添加此配置文件？</string>
+  <string name="add_profile_dialog">为 ShadowsocksRr 添加此配置文件？</string>
   <string name="add_profile_methods_scan_qr_code">扫描二维码</string>
   <string name="add_profile_methods_manual_settings">手动设置</string>
   <string name="add_profile_nfc_hint_title">使用 Android Beam (NFC) 来添加配置</string>

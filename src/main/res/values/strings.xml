@@ -82,7 +82,7 @@
   <string name="bypass_apps">Bypass Mode</string>
   <string name="bypass_apps_summary">Enable this option to bypass selected apps</string>
   <string name="auto_connect">Auto Connect</string>
-  <string name="auto_connect_summary">Enable ShadowsocksR on startup</string>
+  <string name="auto_connect_summary">Enable ShadowsocksRr on startup</string>
   <string name="tcp_fastopen_summary">Toggling requires ROOT permission</string>
   <string name="tcp_fastopen_summary_unsupported">Unsupported kernel version: %s &lt; 3.7.1</string>
   <string name="udp_dns">UDP Forwarding</string>
@@ -93,7 +93,7 @@
   <string name="china_dns_summary">The DNS server you want to use to resolve normal domain,e.g. 223.5.5.5:53</string>
 
   <!-- notification category -->
-  <string name="forward_success">ShadowsocksR started.</string>
+  <string name="forward_success">ShadowsocksRr started.</string>
   <string name="invalid_server">Invalid server name</string>
   <string name="service_failed">Failed to connect the remote server</string>
   <string name="method_unsafe">WARNING: The current encryption method is unsafe</string>

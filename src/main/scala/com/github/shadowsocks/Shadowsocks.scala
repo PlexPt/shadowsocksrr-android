@@ -255,7 +255,7 @@ class Shadowsocks extends AppCompatActivity with ServiceBoundContext {
     setContentView(R.layout.layout_main)
     // Initialize Toolbar
     val toolbar = findViewById(R.id.toolbar).asInstanceOf[Toolbar]
-    toolbar.setTitle("shadowsocks R") // non-translatable logo
+    toolbar.setTitle("shadowsocks Rr") // non-translatable logo
     toolbar.setTitleTextAppearance(toolbar.getContext, R.style.Toolbar_Logo)
     val field = classOf[Toolbar].getDeclaredField("mTitleTextView")
     field.setAccessible(true)
